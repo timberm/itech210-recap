@@ -90,4 +90,201 @@ questions = [
             ],
         'answer':1
     },
+    {
+        'question': "What is the index of 'apples' in the following array?: "
+        "['bananas', 'cherries','apples']",
+        'options': [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        'answer':2
+    },
+    {
+        'question': "Which are the boolean values in python?",
+        'options': [
+            "True, False",
+            "TRUE, FALSE",
+            "true, false",
+        ],
+        'answer':0
+    },
+    {
+        'question': "What is NOT an example of a keyword?",
+        'options': [
+            "return",
+            "for",
+            "start",
+            "if"
+        ],
+        'answer':2
+    },
+    {
+        'question': "What is the output of the following code?: print(bool(18))",
+        'options': [
+            "true",
+            "NULL",
+            "True",
+            "False"
+        ],
+        'answer':2
+    },
+    {
+        'question': "How do you create a single line comment in python?",
+        'options': [
+            "<!-- comment -->",
+            "// comment",
+            "/* comment */",
+            "# comment"
+        ],
+        'answer':3
+    },
+    {
+        'question': "Which of the following is written in Pascal case",
+        'options': [
+            "PascalCase",
+            "pascal_case",
+            "pascalCase",
+            "pascal-case"
+        ],
+        'answer':0
+    },
+    {
+        'question': "What is the index of 'apples'?",
+        'options': [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        'answer':0
+    },
+    {
+        'question': "What data type is this?: ['apples', 'bananas','cherries']",
+        'options': [
+            "float",
+            "bool",
+            "str",
+            "list"
+        ],
+        'answer':3
+    },
+    {
+        'question': "What data type is this?: 20.5",
+        'options': [
+            "float",
+            "bool",
+            "str",
+            "list"
+        ],
+        'answer':0
+    },
+    {
+        'question': "What data type is this?: True",
+        'options': [
+            "float",
+            "bool",
+            "str",
+            "list"
+        ],
+        'answer':1
+    },
+    {
+        'question': "What is the assignment operator?",
+        'options': [
+            "equals",
+            "==",
+            "=",
+            "is"
+        ],
+        'answer':2
+    },
+    {
+        'question': "What is the output of the following code if it was printed?: \n5 >= 6",
+        'options': [
+            "True",
+            "False"
+        ],
+        'answer':1
+    },
+    {
+        'question': "What is the output of the following code if it was printed?: \n10 > 10",
+        'options': [
+            "True",
+            "False"
+        ],
+        'answer':1
+    },
+    {
+        'question': "What is the output of the following code if it was printed?: \nx = \"Hello World\" \nprint(x[2]) ",
+        'options': [
+            "o",
+            "e",
+            "l",
+            "World"
+        ],
+        'answer':3
+    },
+    {
+        'question': "The following are examples of what?: /n /' /t ",
+        'options': [
+            "Slicing strings",
+            "Escape characters",
+            "String methods",
+            "Type casting"
+        ],
+        'answer':1
+    },
+    {
+        'question': "The following are examples of what?: and or not ",
+        'options': [
+            "Arithmetic operators",
+            "Assignment operators",
+            "Comparison operators",
+            "Logical operators"
+        ],
+        'answer':3
+    },
+        {
+        'question': "The following are examples of what?: == != >= <= ",
+        'options': [
+            "Arithmetic operators",
+            "Assignment operators",
+            "Comparison operators",
+            "Logical operators"
+        ],
+        'answer':2
+    },
+    {
+        'question': "The following are examples of what?: + - / * ** // ",
+        'options': [
+            "Arithmetic operators",
+            "Assignment operators",
+            "Comparison operators",
+            "Logical operators"
+        ],
+        'answer':0
+    },
+    {
+        'question': "What is the output of the following code?: 5 // 2 ",
+        'options': [
+            "2",
+            "2.5",
+            "Error",
+            "2.0"
+        ],
+        'answer':1
+    },
+    {
+        'question': "What data type is this?: 20.5",
+        'options': [
+            "float",
+            "bool",
+            "str",
+            "list"
+        ],
+        'answer':0
+    },
+
 ]
